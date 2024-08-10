@@ -1,0 +1,11 @@
+1-extends kalıtım yapar yapılan işlemler kısaltılır öğretmen ve öğrencinin ikisin de giriş yapabilme özelliği olması gibi.
+
+2-constructor o sınıf çağırıldığında çalışır.
+
+3-getter and setter çağırma ve düzenleme.
+
+4-super ise  kalıtım da torun misali olan sınıfta constructor içinde üst sınıfa kalıtım verenin özellikleri getirilir 
+/ dedenin constructor ı çalıştırır ve kod azaltılır.
+
+5-override super class ın her ikisinede kalıttığı özelliği ayrıştırmak istersek mesela örnekte öğrenci de öğretmen de mesaj gönderebilsin
+/ fakat kimin gönderdiği de belli olsun diyorsak override açar özelleştiririz.
